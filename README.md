@@ -2,12 +2,9 @@
 <h3 align="center">A passionate Software Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23F7DB51?style=for-the-badge&logo=java&logoColor=black" alt="Java badge">
   <img src="https://img.shields.io/badge/Python-%233B75B1?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot badge">
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js badge">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
   <img src="https://img.shields.io/badge/Hadoop-%23FF6900?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop badge">
   <img src="https://img.shields.io/badge/Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau badge">
