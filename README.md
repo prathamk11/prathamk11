@@ -7,11 +7,6 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Data%20Science-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Learning-Machine%20Learning%20%26%20AI-orange?style=flat-square" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Code.+Analyze.+Visualize.+Innovate.;Passionate+about+Full+Stack+and+Data.;Always+Learning+Always+Building+💡" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🌟 About Me  
