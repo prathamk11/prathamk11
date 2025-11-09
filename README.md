@@ -55,20 +55,24 @@ I’m passionate about combining **software development** and **data analytics**
 </p>
 
 ---
-
 ## 📊 Smart Activity Dashboard  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamk11&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamk11&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamk11&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamk11&layout=compact&theme=react&hide_border=true" height="160px" />
+  <!-- Highlighting Python Focus -->
+  <img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary Language: Python" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamk11&theme=tokyonight" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamk11&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&custom_title=Prathamesh's+Python+Driven+Stats&title_color=61dafb&icon_color=00bfff" height="160px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamk11&layout=compact&theme=react&hide_border=true&langs_count=5&custom_title=Top+Languages+(Python+Focused)&title_color=61dafb" height="160px" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamk11&theme=tokyonight" width="90%" alt="Profile Summary Card" />
 </p>
 
 > 💬 *Even if you don’t have contributions yet, this smart dashboard visually shows growth and readiness.*
