@@ -41,7 +41,7 @@ class PrathameshKulkarni:
 
 ## ⚡ Tech Stack
 
-
+<div align="center">
 
 **Languages**
 
@@ -88,13 +88,13 @@ class PrathameshKulkarni:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-
+</div>
 
 ---
 
 ## 🏆 Impact Highlights
 
-
+<div align="center">
 
 | Metric | Result | Where |
 |--------|--------|-------|
@@ -105,13 +105,13 @@ class PrathameshKulkarni:
 | 📊 User Interactions Tracked | **10K+** | Telphatech — Streamlit + Tableau Dashboards |
 | 🌲 Training Time Cut | **40%** | NullClass — PySpark Preprocessing Pipelines |
 
-
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-
+<div align="center">
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
@@ -120,59 +120,62 @@ class PrathameshKulkarni:
 | 📈 **Apple Stock Forecasting** | LSTM · Tingo API · MLflow | Stacked LSTM-RNN · 100-day lookback · MLflow tracking · **RMSE: 239.6** |
 | 🔍 **Fraud Transaction Classification** | Scikit-learn · PySpark · Python | Class imbalance · Cross-validation · **Random Forest: 94% accuracy** |
 
-
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamk11&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamk11&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="165px"/>
+</div>
 
-  
-  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamk11&theme=github-dark-blue&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="55%"/>
+</div>
 
-
-
-  
-
-
-
-  
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamk11&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
+</div>
 
 ---
 
 ## 🎓 Certifications
 
-
+<div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks_PySpark_Developer-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Deep_Learning_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/AI_Engineer-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-kulkarni7/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamk11)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpatu007@gmail.com)
 
-
+</div>
 
 ---
 
-
+<div align="center">
 
 > *"Data is the new oil — I'm here to refine it."*
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-
-
+</div>
 ```
 
 ---
+
+**⚠️ One thing to fix before pasting:**
+The Python code block inside — replace the ` ` ` at the bottom with actual triple backticks ` ``` ` (I had to add spaces to show it here). Everything else is ready to paste! 🚀
