@@ -10,9 +10,10 @@
 Transforming **raw data → intelligent systems → business impact** using  
 **Data Engineering • Machine Learning • Cloud Infrastructure**
 
-<div style="text-align:">
+<div style="text-align: center;">
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-FF9900?style=for-the-badge&labelColor=0d1117" alt="Location Badge"/>
 </div>
+<p>
 
 ## 💡 Core Specializations
 
@@ -305,4 +306,4 @@ My work focuses on **real-time data processing, distributed systems, and deployi
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
 
-</div>
+</div> </p>
