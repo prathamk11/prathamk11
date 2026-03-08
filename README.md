@@ -1,131 +1,178 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Prathamesh Kulkarni</h1>
-<h3 align="center">🚀 Software Developer | Data Analyst | Tech Explorer 🇮🇳</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathamk11&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Data%20Science-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-Machine%20Learning%20%26%20AI-orange?style=flat-square" />
-</p>
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prathamesh%20Kulkarni&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20MLOps%20%26%20Analytics&descAlignY=55&descSize=16" width="100%"/>
 
-## 🌟 About Me  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Production-Grade+AI+%26+Data+Systems;PySpark+%7C+Kafka+%7C+Airflow+%7C+PyTorch+%7C+AWS;Turning+Raw+Data+into+Business+Impact;End-to-End+ML+Pipelines+%7C+LLMs+%7C+RAG+Systems" alt="Typing SVG" />
 
-👋 Hi! I'm **Prathamesh Kulkarni**, a dedicated **Full-Stack Developer** and **Data Enthusiast** from **India** 🇮🇳.  
-I’m passionate about combining **software development** and **data analytics** to build systems that make smart decisions.  
+<br/>
 
-🌱 I’m currently exploring:
-- Machine Learning & AI Fundamentals  
-- Big Data with Hadoop & Spark  
-- Business Intelligence using Power BI & Tableau  
+<img src="https://komarev.com/ghpvc/?username=prathamk11&label=Profile+Views&color=58A6FF&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/prathamk11?label=Followers&style=flat-square&color=58A6FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-Full%20Time%20Roles-brightgreen?style=flat-square" />
 
-🎯 My goal: To become a **Data-Driven Full-Stack Engineer** who turns insights into action.
+</div>
 
 ---
 
-## 🧠 My Tech Toolbox  
+## 🧠 About Me
+```python
+class PrathameshKulkarni:
+    def __init__(self):
+        self.role        = "Data Engineer · AI Developer · MLOps & Analytics"
+        self.location    = "Pune, Maharashtra, India 🇮🇳"
+        self.email       = "kpatu007@gmail.com"
+        self.education   = ["M.Sc. CS – SPPU (CGPA: 8.5)", "B.E. CS – SPPU (CGPA: 8.6)"]
+        self.stack       = ["PySpark", "Kafka", "Airflow", "PyTorch", "AWS", "Docker", "Flask"]
+        self.currently   = "Building RAG pipelines & real-time data systems"
+        self.seeking     = "Data Engineer | AI Engineer | MLOps roles @ top tech companies"
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
-  <!-- Data & Analytics -->
-  <img src="https://img.shields.io/badge/Hadoop-FF6900?style=for-the-badge&logo=apache-hadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-## 📊 Smart Activity Dashboard  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamk11&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <!-- Highlighting Python Focus -->
-  <img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary Language: Python" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamk11&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&custom_title=Prathamesh's+Python+Driven+Stats&title_color=61dafb&icon_color=00bfff" height="160px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamk11&layout=compact&theme=react&hide_border=true&langs_count=5&custom_title=Top+Languages+(Python+Focused)&title_color=61dafb" height="160px" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamk11&theme=tokyonight" width="90%" alt="Profile Summary Card" />
-</p>
-
-> 💬 *Even if you don’t have contributions yet, this smart dashboard visually shows growth and readiness.*
+    def impact(self):
+        return {
+            "latency_reduction":  "45%  via Kafka streaming pipelines",
+            "manual_effort_cut":  "40%  via PySpark + Airflow automation",
+            "model_accuracy":     "88%+ on production emotion-detection models",
+            "chatbot_accuracy":   "32%  boost in intent-recognition (Flask + PyTorch)",
+        }
+` ` `
 
 ---
 
-## 🧩 Highlight Projects  
+## ⚡ Tech Stack
 
-| 🌟 Project | 💡 Description | 🧰 Tech |
-|-------------|----------------|---------|
-| [📊 Data Insights Dashboard](https://github.com/prathamk11/data-insights-dashboard) | An interactive dashboard combining business metrics & data visualization. | Tableau, Power BI, Excel |
-| [🌐 Task Manager Web App](https://github.com/prathamk11/task-manager-app) | CRUD web application for managing daily tasks efficiently. | Spring Boot, React, MySQL |
-| [🤖 ML Predictor](https://github.com/prathamk11/ml-predictor) | Machine Learning model hosted with Flask for real-time predictions. | Python, Flask, Pandas |
+
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+**AI / ML & GenAI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Big Data & Data Engineering**
+
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Frameworks**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
 
 ---
 
-## 🚀 Currently Leveling Up  
+## 🏆 Impact Highlights
 
-🧠 **AI/ML Models** — Predictive Analysis, NLP  
-☁️ **Cloud Technologies** — AWS, GCP, Deployment Pipelines  
-📈 **Data Engineering** — Spark, Hadoop, ETL Workflows  
-⚙️ **System Design** — Scalable APIs, Microservices  
 
----
 
-## 🌐 Let's Connect  
+| Metric | Result | Where |
+|--------|--------|-------|
+| ⚡ System Latency Reduced | **45%** | Telphatech — Kafka Streaming Pipelines |
+| 🤖 Manual Effort Eliminated | **40%** | CaryanamIndia — PySpark + Airflow |
+| 🎯 Model Accuracy | **88%+** | NullClass — Emotion Detection (TensorFlow) |
+| 💬 Chatbot Intent Accuracy | **+32%** | Telphatech — Flask + PyTorch Chatbot |
+| 📊 User Interactions Tracked | **10K+** | Telphatech — Streamlit + Tableau Dashboards |
+| 🌲 Training Time Cut | **40%** | NullClass — PySpark Preprocessing Pipelines |
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pratham-kulkarni007/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/itz_prathm/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:prathameshkulkarni.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/prathamk11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+
 
 ---
 
-## 🎨 Fun Facts  
+## 🚀 Featured Projects
 
-- 💬 I love discussing **tech trends**, **data visualization**, and **AI ideas**  
-- 🎧 I code best with **Lofi beats** or **Instrumentals**  
-- 🏏 I’m a **cricket enthusiast** & part-time **storyteller**  
-- ✨ Motto: *“Keep learning. Keep building. Keep evolving.”*
+
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| 🌫️ **Air Quality Index Prediction** | PySpark · Flask · Heroku · Random Forest | End-to-end pipeline · Web scraping · 6+ models · **RMSE: 38.85** · Live on Heroku |
+| 🌿 **Cotton Plant Disease Detection** | TensorFlow · VGG-19 · Flask · Docker | Transfer learning · **94.6% accuracy** · Dockerized · Real-time inference |
+| 📈 **Apple Stock Forecasting** | LSTM · Tingo API · MLflow | Stacked LSTM-RNN · 100-day lookback · MLflow tracking · **RMSE: 239.6** |
+| 🔍 **Fraud Transaction Classification** | Scikit-learn · PySpark · Python | Class imbalance · Cross-validation · **Random Forest: 94% accuracy** |
+
+
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Let's+Turn+Data+Into+Decisions.;Let's+Turn+Ideas+Into+Reality.;Building+Smart+Solutions+for+a+Smarter+Future." alt="Typing Animation" />
-</p>
+## 📊 GitHub Analytics
+
+
+  
+  
+
+
+
+  
+
+
+
+  
+
+
+---
+
+## 🎓 Certifications
+
+
+
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks_PySpark_Developer-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Coursera](https://img.shields.io/badge/Deep_Learning_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Microsoft](https://img.shields.io/badge/AI_Engineer-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+
+---
+
+## 🌐 Connect With Me
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-kulkarni7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamk11)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpatu007@gmail.com)
+
+
+
+---
+
+
+
+> *"Data is the new oil — I'm here to refine it."*
+
+
+
+
+```
+
+---
