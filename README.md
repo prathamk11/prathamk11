@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prathamesh%20Kulkarni&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20MLOps%20%26%20Analytics&descAlignY=58&descSize=20" width="100%"/>
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prathamesh%20Kulkarni&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20MLOps%20%26%20Analytics&descAlignY=58&descSize=20" 
+width="100%" 
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Production-Grade+AI+%26+Data+Platforms+%F0%9F%9A%80;Real-Time+Pipelines+%7C+PySpark+%7C+Kafka+%7C+Airflow;LLM+Apps+%7C+RAG+Systems+%7C+Vector+Databases;MLOps+%7C+Docker+%7C+Kubernetes+%7C+AWS;Turning+Raw+Data+Into+Measurable+Business+Impact+%F0%9F%8E%AF" alt="Typing SVG"/>
+<img 
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Production-Grade+AI+%26+Data+Platforms+%F0%9F%9A%80;Real-Time+Pipelines+%7C+PySpark+%7C+Kafka+%7C+Airflow;LLM+Apps+%7C+RAG+Systems+%7C+Vector+Databases;MLOps+%7C+Docker+%7C+Kubernetes+%7C+AWS;Turning+Raw+Data+Into+Measurable+Business+Impact+%F0%9F%8E%AF" 
+alt="Typing SVG" 
+/>
 
 <br/><br/>
 
