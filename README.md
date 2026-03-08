@@ -30,74 +30,23 @@
 
 ---
 
-## 🧠 Who Am I?
+---
 
-```python
-#!/usr/bin/env python3
-# ─────────────────────────────────────────────────────────────
-#  PRATHAMESH KULKARNI  |  Data Engineer & AI Developer
-#  Pune, India 🇮🇳  |  kpatu007@gmail.com
-# ─────────────────────────────────────────────────────────────
+# 🧠 About Me
 
-class PrathameshKulkarni:
+Hi, I'm **Prathamesh Kulkarni**, a **Data Engineer and AI Developer based in Pune, India 🇮🇳**.
 
-    def __init__(self):
-        self.name          = "Prathamesh Kulkarni"
-        self.role          = ["Data Engineer", "AI Developer", "MLOps Engineer", "Data Analyst"]
-        self.location      = "Pune, Maharashtra, India 🇮🇳"
-        self.email         = "kpatu007@gmail.com"
-        self.linkedin      = "linkedin.com/in/pratham-kulkarni7"
-        self.github        = "github.com/prathamk11"
-
-        self.education     = {
-            "Masters" : "M.Sc. Computer Science — SPPU  (CGPA: 8.5)  2022–2024",
-            "Bachelors": "B.E.  Computer Science — SPPU  (CGPA: 8.6)  2019–2022",
-        }
-
-        self.core_stack    = {
-            "Languages"   : ["Python", "SQL", "R", "JavaScript", "Bash", "YAML"],
-            "AI_ML_GenAI" : ["PyTorch", "TensorFlow", "HuggingFace", "LangChain",
-                             "LlamaIndex", "OpenAI API", "RAG", "MLflow", "Pinecone"],
-            "Big_Data"    : ["PySpark", "Kafka", "Airflow", "Databricks",
-                             "Snowflake", "dbt", "Delta Lake", "Spark Streaming"],
-            "Cloud_DevOps": ["AWS (EC2·S3·Lambda·Glue)", "Docker", "Kubernetes",
-                             "Git", "CI/CD", "MongoDB", "Elasticsearch"],
-            "Frameworks"  : ["Flask", "FastAPI", "React", "Streamlit"],
-        }
-
-        self.focus_2025    = [
-            "🔥 LLM Fine-tuning & RAG Architectures",
-            "⚡ Real-Time Streaming with Kafka + Spark",
-            "🏗️  MLOps Infra: MLflow + Docker + Kubernetes",
-            "☁️  Cloud-Native DE: AWS + Databricks + Snowflake",
-            "📊 Advanced Analytics with Power BI + dbt",
-        ]
-
-        self.seeking       = "Data Engineer | AI Engineer | MLOps @ Top MNCs & FAANG"
-
-    def proven_impact(self):
-        return {
-            "⚡ Streaming Latency Cut"    : "45%  — Kafka Pipelines @ Telphatech LLP",
-            "🤖 Manual Effort Eliminated" : "40%  — PySpark + Airflow @ CaryanamIndia",
-            "🎯 Production Model Accuracy": "88%+ — Emotion Detection @ NullClass",
-            "💬 Chatbot Intent Boost"     : "32%  — Flask + PyTorch @ Telphatech LLP",
-            "📊 Interactions Tracked"     : "10K+ — Streamlit + Tableau Dashboards",
-            "🌲 Training Time Reduced"    : "40%  — PySpark Preprocessing @ NullClass",
-        }
-
-    def architecture_expertise(self):
-        return [
-            "Kafka → Spark Streaming → Delta Lake → ML Model → FastAPI → Docker → K8s → AWS",
-            "Raw Data → Airflow DAGs → dbt Transforms → Snowflake → Power BI Dashboards",
-            "PDF/Docs → LangChain → Embeddings → Pinecone → RAG → LLM Response → Flask API",
-        ]
-
-me = PrathameshKulkarni()
-[print(f"  {k}: {v}") for k, v in me.proven_impact().items()]
-```
+I build **production-grade data pipelines, machine learning systems, and AI applications** designed to operate at scale.  
+My work focuses on **real-time data processing, distributed systems, and deploying intelligent models into production environments.**
 
 ---
 
+### 🎓 Education
+
+* **M.Sc Computer Science** — Savitribai Phule Pune University *(CGPA: 8.5)*  
+* **B.E Computer Science** — Savitribai Phule Pune University *(CGPA: 8.6)*  
+
+---
 ## 📈 Proven Business Impact
 
 <div align="center">
@@ -316,8 +265,19 @@ me = PrathameshKulkarni()
 **📍 Based in:** Pune, India &nbsp;|&nbsp; **🌐 Open to:** Remote & Hybrid roles globally
 
 </div>
-
 ---
+
+## 🔒 Engineering Credibility
+
+✔️ All projects in this profile follow **production-grade practices** used in real data platforms.
+
+✔️ Code includes **scalable data pipelines, ML workflows, and deployment-ready architectures**.
+
+✔️ Built using **industry tools** such as PySpark, Kafka, Airflow, AWS, Docker, and MLflow.
+
+✔️ Every repository contains **complete code, documentation, and reproducible workflows**.
+
+💼 *Open to Data Engineer · AI Engineer · MLOps opportunities.*
 
 <div align="center">
 
