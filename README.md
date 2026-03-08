@@ -1,28 +1,51 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,9333EA&height=3"/>
 
+<div align="center">
 
-<br/><br/>
+# 🚀 Prathamesh Kulkarni  
+### **Data Engineer • AI Engineer • MLOps Developer**
 
-<img src="https://komarev.com/ghpvc/?username=prathamk11&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/prathamk11?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20To%20Roles-00D26A?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Pune%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-FF9900?style=for-the-badge&labelColor=0d1117"/>
+💡 Designing **scalable data platforms**, **real-time streaming pipelines**, and **production AI systems**
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-kulkarni7/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamk11)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpatu007@gmail.com)
+Transforming **raw data → intelligent systems → business impact** using  
+**Data Engineering • Machine Learning • Cloud Infrastructure**
 
 </div>
 
 ---
 
+## 💡 Core Specializations
+
+⚡ **Real-Time Data Engineering**  
+Kafka • Spark • Airflow • Distributed Streaming Pipelines  
+
+🤖 **AI & Generative AI Systems**  
+LLMs • RAG Architectures • NLP • Deep Learning Models  
+
+☁️ **Cloud & MLOps Infrastructure**  
+AWS • Docker • Kubernetes • MLflow • CI/CD  
+
+📊 **End-to-End Data Platforms**  
+Data Ingestion → Feature Engineering → ML Pipelines → API Deployment  
+
+---
+
+## 🎯 Engineering Focus
+
+- ⚡ Building **high-throughput streaming data systems**
+- 🧠 Designing **production-grade ML pipelines**
+- 🤖 Developing **LLM-powered AI applications**
+- ☁️ Deploying **scalable cloud-native AI infrastructure**
+
+---
+
+<div align="center">
+
+### ⚡ *Turning Data into Scalable Intelligent Systems*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9333EA,3B82F6&height=3"/>
 ---
 
 # 🧠 About Me
