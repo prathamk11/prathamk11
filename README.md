@@ -1,170 +1,230 @@
 <div align="center">
 
-# 👋 Hi, I'm Prathamesh Kulkarni
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prathamesh%20Kulkarni&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20MLOps%20%26%20Analytics&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=200&section=header&text=Prathamesh%20Kulkarni&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20•%20AI%20Developer%20•%20MLOps%20Engineer&descAlignY=60&descSize=18"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Production+AI+%26+Data+Systems;PySpark+%7C+Kafka+%7C+Airflow+%7C+AWS;LLM+%7C+RAG+%7C+MLOps+Pipelines;Turning+Raw+Data+Into+Business+Impact"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Production-Grade+AI+%26+Data+Systems+%F0%9F%9A%80;PySpark+%7C+Kafka+%7C+Airflow+%7C+PyTorch+%7C+AWS;LLM+%7C+RAG+%7C+Real-Time+Data+Pipelines;Turning+Raw+Data+Into+Measurable+Business+Impact" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=prathamk11&label=Profile%20Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/prathamk11?label=Followers&style=social"/>
-<img src="https://img.shields.io/badge/Open%20To-Full%20Time%20Roles-brightgreen"/>
+<img src="https://komarev.com/ghpvc/?username=prathamk11&label=Profile+Views&color=58A6FF&style=flat-square"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/prathamk11?label=Followers&style=flat-square&color=58A6FF"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20To%20Full%20Time%20Roles-brightgreen?style=flat-square"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Location-Pune%2C%20India-orange?style=flat-square"/>
 
 </div>
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
+```python
 class PrathameshKulkarni:
-
     def __init__(self):
+        self.role          = "Data Engineer | AI Developer | MLOps & Analytics"
+        self.location      = "Pune, Maharashtra, India 🇮🇳"
+        self.email         = "kpatu007@gmail.com"
+        self.linkedin      = "linkedin.com/in/pratham-kulkarni7"
+        self.github        = "github.com/prathamk11"
 
-        self.role = "Data Engineer | AI Engineer | MLOps"
-        self.location = "Pune, India 🇮🇳"
-        self.email = "kpatu007@gmail.com"
-
-        self.education = [
-            "M.Sc Computer Science — SPPU (CGPA 8.5)",
-            "B.E Computer Science — SPPU (CGPA 8.6)"
+        self.education     = [
+            "M.Sc. Computer Science — SPPU  (CGPA: 8.5)",
+            "B.E.  Computer Science — SPPU  (CGPA: 8.6)",
         ]
 
-        self.stack = [
-            "PySpark",
-            "Kafka",
-            "Airflow",
-            "PyTorch",
-            "AWS",
-            "Docker",
-            "Flask",
-            "LangChain"
+        self.core_stack    = [
+            "PySpark", "Apache Kafka", "Apache Airflow",
+            "PyTorch", "TensorFlow", "LangChain",
+            "AWS", "Docker", "Kubernetes", "Flask", "FastAPI",
         ]
 
         self.current_focus = [
-            "LLM Applications",
-            "RAG Systems",
-            "Real-Time Data Pipelines",
-            "MLOps Infrastructure"
+            "LLM Applications & RAG Systems",
+            "Real-Time Streaming Pipelines (Kafka + Spark)",
+            "MLOps Infrastructure (MLflow + Docker + Kubernetes)",
+            "Cloud-Native Data Engineering (AWS + Databricks + Snowflake)",
         ]
+
+        self.seeking = "Data Engineer | AI Engineer | MLOps roles @ top MNCs & FAANG"
 
     def impact(self):
         return {
-            "streaming_latency_reduction": "45%",
-            "automation_efficiency_gain": "40%",
-            "model_accuracy": "88%+",
-            "chatbot_intent_accuracy_boost": "32%"
+            "Streaming Latency Reduced"   : "45%  — Kafka Pipelines @ Telphatech",
+            "Manual Effort Eliminated"    : "40%  — PySpark + Airflow @ CaryanamIndia",
+            "Model Accuracy Achieved"     : "88%+ — Emotion Detection @ NullClass",
+            "Chatbot Intent Boost"        : "32%  — Flask + PyTorch @ Telphatech",
+            "Interactions Tracked"        : "10K+ — Streamlit Dashboards",
+            "Training Time Cut"           : "40%  — PySpark Preprocessing @ NullClass",
         }
 
-# Create object
 me = PrathameshKulkarni()
-
-# Display profile info
-print("Role:", me.role)
-print("Location:", me.location)
-print("Email:", me.email)
-print("Education:", ", ".join(me.education))
-print("Stack:", ", ".join(me.stack))
-print("Current Focus:", ", ".join(me.current_focus))
-print("Impact Metrics:", me.impact())
+print(me.impact())
+```
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-### 🧑‍💻 Languages
+<div align="center">
+
+**🧑‍💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
----
+**🤖 AI / ML & GenAI**
 
-### 🤖 AI / ML / GenAI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-blue?style=for-the-badge)
+**📊 Big Data & Data Engineering**
 
----
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logoColor=white)
 
-### 📊 Data Engineering
+**☁️ Cloud & DevOps**
 
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark)
-![Apache Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
+**🛠️ Frameworks**
 
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-# 🚀 Featured Projects
-
-| Project | Stack | Highlights |
-|------|------|------|
-| 🌫️ **Air Quality Prediction** | PySpark · Flask · Random Forest | End-to-end ML pipeline |
-| 🌿 **Plant Disease Detection** | TensorFlow · VGG19 · Docker | 94.6% accuracy |
-| 📈 **Stock Price Forecasting** | LSTM · MLflow | Time series deep learning |
-| 🔍 **Fraud Detection System** | PySpark · Scikit-learn | 94% accuracy |
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prathamk11&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamk11&layout=compact&theme=tokyonight&hide_border=true"/>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🏆 Impact Highlights
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=prathamk11&theme=tokyonight&hide_border=true"/>
+| # | Metric | Result | Company |
+|---|--------|--------|---------|
+| ⚡ | System Latency Reduced | **45%** | Telphatech — Kafka Streaming Pipelines |
+| 🤖 | Manual Effort Eliminated | **40%** | CaryanamIndia — PySpark + Airflow Automation |
+| 🎯 | Production Model Accuracy | **88%+** | NullClass — Emotion Detection (TensorFlow) |
+| 💬 | Chatbot Intent Accuracy Boost | **+32%** | Telphatech — Flask + PyTorch AI Chatbot |
+| 📊 | User Interactions Tracked | **10K+** | Telphatech — Streamlit + Tableau Dashboards |
+| 🌲 | Model Training Time Cut | **40%** | NullClass — PySpark Preprocessing Pipelines |
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prathamk11&theme=algolia&no-frame=true&row=1&column=6"/>
+| Project | Stack | Key Results |
+|---------|-------|-------------|
+| 🌫️ **Air Quality Index Prediction** | PySpark · Flask · Heroku · Random Forest | End-to-end ML pipeline · 6+ models benchmarked · **RMSE: 38.85** · Live on Heroku |
+| 🌿 **Cotton Plant Disease Detection** | TensorFlow · VGG-19 · Flask · Docker | Transfer learning · **94.6% accuracy** · Dockerized · Real-time inference API |
+| 📈 **Apple Stock Price Forecasting** | LSTM · Tingo API · MLflow | Stacked LSTM-RNN · 100-day lookback · MLflow tracking · **Test RMSE: 239.6** |
+| 🔍 **Fraud Transaction Classification** | Scikit-learn · PySpark · Python | Class imbalance handling · Cross-validation · **Random Forest: 94% accuracy** |
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 💼 Work Experience
+
+```
+🏢 CaryanamIndia                                          Oct 2025 – Jan 2026
+   Software Development Intern — AI & Data Engineering   Pune, India
+   ✅ Architected PySpark + Airflow pipelines → 40% manual effort eliminated
+   ✅ Built NLP document intelligence pipelines on AWS S3 + Lambda
+   ✅ Delivered AI-powered Power BI dashboards improving operational KPIs
+
+🏢 Telphatech LLP                                         Jan 2024 – Jul 2024
+   Full-Stack Developer Intern                            Pune, India
+   ✅ Deployed AI chatbot (Flask + PyTorch) → 32% intent accuracy boost
+   ✅ Kafka streaming pipelines → 45% latency reduction
+   ✅ Streamlit + Tableau dashboards tracking 10K+ user interactions
+
+🏢 NullClass                                              Jan 2024 – Jun 2024
+   Data Science Intern                                    Remote, India
+   ✅ TensorFlow + HuggingFace emotion-detection → 88%+ accuracy
+   ✅ PySpark preprocessing refactor → 40% training time cut
+   ✅ MLflow experiment tracking → production-ready ML components
+```
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prathamesh%20Kulkarni-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratham-kulkarni7)
+<img src="https://github-readme-stats.vercel.app/api?username=prathamk11&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" height="165px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamk11&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="165px"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-prathamk11-black?style=for-the-badge&logo=github)](https://github.com/prathamk11)
+</div>
 
-[![Email](https://img.shields.io/badge/Email-kpatu007%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kpatu007@gmail.com)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=prathamk11&theme=github-dark-blue&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="55%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamk11&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prathamk11&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks_PySpark_Developer-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![DeepLearning](https://img.shields.io/badge/Deep_Learning_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Microsoft](https://img.shields.io/badge/AI_Engineer_Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-kulkarni7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamk11)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpatu007@gmail.com)
 
 </div>
 
@@ -172,8 +232,10 @@ print("Impact Metrics:", me.impact())
 
 <div align="center">
 
-### ⭐ *"Data is the new oil — I build the refineries."*
+**⭐ If you find my work useful, consider starring my repositories!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=120&section=footer"/>
+> *"Data is the new oil — I build the refineries."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
