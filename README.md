@@ -6,6 +6,12 @@
 
 <br/><br/>
 
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Production-Grade+AI+%26+Data+Platforms+%F0%9F%9A%80;Real-Time+Pipelines+%7C+PySpark+%7C+Kafka+%7C+Airflow;LLM+Apps+%7C+RAG+Systems+%7C+Vector+Databases;MLOps+%7C+Docker+%7C+Kubernetes+%7C+AWS;Turning+Raw+Data+Into+Measurable+Business+Impact+%F0%9F%8E%AF" alt="Typing SVG"/>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=prathamk11&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/prathamk11?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117"/>
