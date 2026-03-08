@@ -12,7 +12,14 @@ Transforming **raw data → intelligent systems → business impact** using
 
 </div>
 
----
+<img src="https://komarev.com/ghpvc/?username=prathamk11&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20To%20Roles-00D26A?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Pune%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-FF9900?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
 
 ## 💡 Core Specializations
 
@@ -46,7 +53,6 @@ Data Ingestion → Feature Engineering → ML Pipelines → API Deployment
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=9333EA,3B82F6&height=3"/>
----
 
 # 🧠 About Me
 
@@ -264,7 +270,6 @@ My work focuses on **real-time data processing, distributed systems, and deployi
 
 </div>
 
----
 
 ## 🌐 Let's Connect & Build Something Great
 
@@ -281,7 +286,7 @@ My work focuses on **real-time data processing, distributed systems, and deployi
 **📍 Based in:** Pune, India &nbsp;|&nbsp; **🌐 Open to:** Remote & Hybrid roles globally
 
 </div>
----
+
 
 ## 🔒 Engineering Credibility
 
