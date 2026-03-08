@@ -13,9 +13,7 @@ Transforming **raw data → intelligent systems → business impact** using
 </div>
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Pune%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-FF9900?style=for-the-badge&labelColor=0d1117"/>
-
 <br/><br/>
-
 
 ## 💡 Core Specializations
 
