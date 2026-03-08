@@ -18,15 +18,12 @@
 
 # 🧠 About Me
 
-```python
 class PrathameshKulkarni:
 
     def __init__(self):
 
         self.role = "Data Engineer | AI Engineer | MLOps"
-
         self.location = "Pune, India 🇮🇳"
-
         self.email = "kpatu007@gmail.com"
 
         self.education = [
@@ -53,18 +50,24 @@ class PrathameshKulkarni:
         ]
 
     def impact(self):
-
         return {
-
             "streaming_latency_reduction": "45%",
             "automation_efficiency_gain": "40%",
             "model_accuracy": "88%+",
             "chatbot_intent_accuracy_boost": "32%"
         }
 
-
+# Create object
 me = PrathameshKulkarni()
-```
+
+# Display profile info
+print("Role:", me.role)
+print("Location:", me.location)
+print("Email:", me.email)
+print("Education:", ", ".join(me.education))
+print("Stack:", ", ".join(me.stack))
+print("Current Focus:", ", ".join(me.current_focus))
+print("Impact Metrics:", me.impact())
 
 ---
 
