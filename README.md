@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Prathamesh Kulkarni
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=200&section=header&text=Prathamesh%20Kulkarni&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20•%20AI%20Developer%20•%20MLOps%20Engineer&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=200&section=header&text=Prathamesh%20Kulkarni&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20•%20AI%20Engineer%20•%20MLOps%20Developer&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Production+AI+%26+Data+Systems;PySpark+%7C+Kafka+%7C+Airflow+%7C+AWS;LLM+%7C+RAG+%7C+MLOps+Pipelines;Turning+Raw+Data+Into+Business+Impact"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Production+AI+%26+Data+Platforms;Real-Time+Data+Engineering+%7C+Spark+%7C+Kafka;LLM+Applications+%7C+RAG+%7C+MLOps;Turning+Data+Into+Business+Impact"/>
 
 <br/>
 
@@ -18,69 +18,71 @@
 
 # ⚙️ Core Expertise
 
-**Data Engineering • Machine Learning • Generative AI • MLOps • Cloud Systems**
+**Data Engineering • Artificial Intelligence • Generative AI • MLOps • Cloud Platforms**
+
+I specialize in designing **scalable data platforms and production AI systems** that convert raw data into intelligent, automated solutions for real-world applications.
 
 ---
 
-# 📈 Impact
+# 📈 Engineering Impact
 
-- 🚀 Reduced streaming latency **45%** using Kafka pipelines  
-- ⚙️ Automated workflows saving **40% manual effort** with PySpark + Airflow  
-- 🤖 Built emotion detection model achieving **88% accuracy**  
-- 💬 Improved chatbot intent recognition **32%**  
-- 📊 Built dashboards tracking **10K+ interactions**
+- 🚀 Reduced **streaming pipeline latency by 45%** using Kafka architecture optimization  
+- ⚙️ Automated data workflows reducing **40% manual effort** via PySpark + Airflow  
+- 🤖 Built ML models achieving **88%+ prediction accuracy**  
+- 💬 Improved chatbot intent recognition **32% using NLP pipelines**  
+- 📊 Designed analytics dashboards processing **10K+ user interactions**
 
 ---
-
 
 # 🧠 About Me
 
-Hi, I'm **Prathamesh Kulkarni** — a **Data Engineer & AI Developer** based in **Pune, India 🇮🇳**.
+Hi, I'm **Prathamesh Kulkarni**, a **Data Engineer and AI Developer based in Pune, India 🇮🇳**.
 
-I build **production-ready data platforms, machine learning systems, and LLM-powered applications**.  
-My focus is on transforming **raw data into scalable, intelligent systems** that deliver real business impact.
+I build **production-grade data pipelines, machine learning systems, and AI applications** designed to operate at scale.  
+My work focuses on **real-time data processing, distributed systems, and deploying intelligent models into production environments.**
 
 ---
 
 ### 🎓 Education
-- **M.Sc Computer Science** — Savitribai Phule Pune University *(CGPA: 8.5)*
-- **B.E Computer Science** — Savitribai Phule Pune University *(CGPA: 8.6)*
 
----
-
-### ⚙️ Core Technologies
-- **Data Engineering:** PySpark, Apache Kafka, Apache Airflow, Databricks  
-- **AI / ML:** PyTorch, TensorFlow, Scikit-learn, LangChain  
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, MLflow  
-- **Backend & APIs:** Flask, FastAPI
-
----
-
-### 🚀 Current Focus
-- Building **LLM applications with RAG architectures**
-- Developing **real-time streaming data pipelines**
-- Designing **MLOps pipelines for scalable ML deployment**
-- Creating **cloud-native data platforms**
-
----
-
-### 📍 Contact
-- **Location:** Pune, Maharashtra, India  
-- **Email:** kpatu007@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/pratham-kulkarni7  
-- **GitHub:** https://github.com/prathamk11
-
-me = PrathameshKulkarni()
+- **M.Sc Computer Science** — Savitribai Phule Pune University *(CGPA: 8.5)*  
+- **B.E Computer Science** — Savitribai Phule Pune University *(CGPA: 8.6)*  
 
 ---
 
 # 🧩 What I Build
 
-- Real-time **data pipelines using Spark + Kafka**
-- **LLM powered AI applications** using RAG
-- **Production ML systems** with MLOps
-- **Cloud-native data platforms** on AWS
-- **End-to-end ML pipelines** from ingestion → deployment
+✔ Real-time **streaming data pipelines**  
+✔ **LLM-powered AI applications** with RAG architectures  
+✔ **Production ML systems** with automated MLOps pipelines  
+✔ **Cloud-native data platforms** using AWS infrastructure  
+✔ End-to-end **data → model → API → deployment pipelines**
+
+---
+
+# 🏗 Example System Architecture
+
+```text
+Kafka Streams
+      ↓
+Spark Structured Streaming
+      ↓
+Feature Engineering Pipeline
+      ↓
+Machine Learning Model
+      ↓
+FastAPI Inference Service
+      ↓
+Docker Containers
+      ↓
+Kubernetes Deployment
+      ↓
+AWS Cloud Infrastructure
+      ↓
+Monitoring + Logging
+```
+
+This architecture demonstrates **real-time data ingestion, distributed processing, ML deployment, and scalable infrastructure.**
 
 ---
 
@@ -95,7 +97,7 @@ me = PrathameshKulkarni()
 
 ---
 
-### 🤖 AI / ML / GenAI
+### 🤖 AI / Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
@@ -128,16 +130,16 @@ me = PrathameshKulkarni()
 
 # 🚀 Featured Projects
 
-| Project | Stack | Result |
+| Project | Technology | Outcome |
 |------|------|------|
-| 🌫 Air Quality Prediction | PySpark · Flask · Random Forest | End-to-end ML pipeline |
-| 🌿 Plant Disease Detection | TensorFlow · VGG19 · Docker | 94.6% accuracy |
-| 📈 Stock Price Forecasting | LSTM · MLflow | Time-series deep learning |
-| 🔍 Fraud Detection System | PySpark · Scikit-learn | 94% model precision |
+| 🌫 **Air Quality Prediction System** | PySpark · Flask · Random Forest | End-to-end ML pipeline |
+| 🌿 **Plant Disease Detection** | TensorFlow · VGG19 · Docker | 94.6% classification accuracy |
+| 📈 **Stock Market Forecasting** | LSTM · MLflow | Deep learning time-series forecasting |
+| 🔍 **Fraud Detection System** | PySpark · Scikit-learn | High-precision anomaly detection |
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -146,16 +148,6 @@ me = PrathameshKulkarni()
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamk11&theme=tokyonight" height="165"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=prathamk11&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -185,7 +177,7 @@ me = PrathameshKulkarni()
 
 <div align="center">
 
-### ⭐ *"Data is the new oil — I build the refineries."*
+### ⭐ *"Data is the new oil — I build the refineries that turn it into intelligence."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=120&section=footer"/>
 
