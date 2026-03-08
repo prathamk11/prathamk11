@@ -72,14 +72,6 @@ My focus is on transforming **raw data into scalable, intelligent systems** that
 
 me = PrathameshKulkarni()
 
-print("Role:", me.role)
-print("Location:", me.location)
-print("Email:", me.email)
-print("Education:", ", ".join(me.education))
-print("Stack:", ", ".join(me.core_stack))
-print("Focus:", ", ".join(me.current_focus))
-print("Impact:", me.impact())
-
 ---
 
 # 🧩 What I Build
@@ -145,15 +137,15 @@ print("Impact:", me.impact())
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prathamk11&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prathamk11&show_icons=true&theme=tokyonight" height="165"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamk11&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamk11&theme=tokyonight" height="165"/>
 
-</div>
+</p>
 
 ---
 
