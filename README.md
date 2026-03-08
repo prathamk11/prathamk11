@@ -32,48 +32,43 @@
 
 ---
 
+
 # 🧠 About Me
 
-```python
-class PrathameshKulkarni:
+Hi, I'm **Prathamesh Kulkarni** — a **Data Engineer & AI Developer** based in **Pune, India 🇮🇳**.
 
-    def __init__(self):
+I build **production-ready data platforms, machine learning systems, and LLM-powered applications**.  
+My focus is on transforming **raw data into scalable, intelligent systems** that deliver real business impact.
 
-        self.role = "Data Engineer | AI Engineer | MLOps"
-        self.location = "Pune, Maharashtra, India 🇮🇳"
-        self.email = "kpatu007@gmail.com"
+---
 
-        self.linkedin = "linkedin.com/in/pratham-kulkarni7"
-        self.github = "github.com/prathamk11"
+### 🎓 Education
+- **M.Sc Computer Science** — Savitribai Phule Pune University *(CGPA: 8.5)*
+- **B.E Computer Science** — Savitribai Phule Pune University *(CGPA: 8.6)*
 
-        self.education = [
-            "M.Sc Computer Science — SPPU (CGPA 8.5)",
-            "B.E Computer Science — SPPU (CGPA 8.6)"
-        ]
+---
 
-        self.core_stack = [
-            "PySpark", "Apache Kafka", "Apache Airflow",
-            "PyTorch", "TensorFlow", "LangChain",
-            "AWS", "Docker", "Kubernetes",
-            "Flask", "FastAPI"
-        ]
+### ⚙️ Core Technologies
+- **Data Engineering:** PySpark, Apache Kafka, Apache Airflow, Databricks  
+- **AI / ML:** PyTorch, TensorFlow, Scikit-learn, LangChain  
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, MLflow  
+- **Backend & APIs:** Flask, FastAPI
 
-        self.current_focus = [
-            "LLM Applications & RAG Systems",
-            "Real-Time Streaming Pipelines",
-            "MLOps Infrastructure",
-            "Cloud-Native Data Engineering"
-        ]
+---
 
-    def impact(self):
-        return {
-            "Streaming Latency Reduced": "45% — Kafka Pipelines",
-            "Manual Effort Eliminated": "40% — PySpark + Airflow",
-            "Model Accuracy Achieved": "88%+ — Emotion Detection",
-            "Chatbot Intent Boost": "32%",
-            "Interactions Tracked": "10K+"
-        }
+### 🚀 Current Focus
+- Building **LLM applications with RAG architectures**
+- Developing **real-time streaming data pipelines**
+- Designing **MLOps pipelines for scalable ML deployment**
+- Creating **cloud-native data platforms**
 
+---
+
+### 📍 Contact
+- **Location:** Pune, Maharashtra, India  
+- **Email:** kpatu007@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/pratham-kulkarni7  
+- **GitHub:** https://github.com/prathamk11
 
 me = PrathameshKulkarni()
 
@@ -84,7 +79,6 @@ print("Education:", ", ".join(me.education))
 print("Stack:", ", ".join(me.core_stack))
 print("Focus:", ", ".join(me.current_focus))
 print("Impact:", me.impact())
-```
 
 ---
 
