@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,9333EA&height=3"/>
+<div align="center">
 
 # 🚀 Prathamesh Kulkarni  
 ### **Data Engineer • AI Engineer • MLOps Developer**
@@ -8,10 +9,9 @@
 Transforming **raw data → intelligent systems → business impact** using  
 **Data Engineering • Machine Learning • Cloud Infrastructure**
 
-<div style="text-align: center;">
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-FF9900?style=for-the-badge&labelColor=0d1117" alt="Location Badge"/>
+![Location Badge](https://img.shields.io/badge/Location-Pune%2C%20India%20🇮🇳-FF9900?style=for-the-badge&labelColor=0d1117)
+
 </div>
-<p>
 
 ## 💡 Core Specializations
 
