@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,9333EA&height=3"/>
 
-<div align="center">
-
 # 🚀 Prathamesh Kulkarni  
 ### **Data Engineer • AI Engineer • MLOps Developer**
 
