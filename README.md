@@ -2,7 +2,7 @@
 <div align="center">
 
 # 🚀 Prathamesh Kulkarni  
-### **Data Engineer • AI Engineer • MLOps Developer**
+### **Data Engineer • AI Engineer • MLOps Developer.**
 
 💡 Designing **scalable data platforms**, **real-time streaming pipelines**, and **production AI systems**
 
